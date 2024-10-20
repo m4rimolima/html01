@@ -3,6 +3,11 @@
     text-align: center;
 }
 
+#fundo_color{
+    background-color: #3a5a40;
+}
+
 p{
-    color:darkolivegreen;
+    color:#dad7cd;
+
 }

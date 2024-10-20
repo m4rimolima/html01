@@ -1,0 +1,33 @@
+#titulo {
+    text-align: center;
+    color: rgb(157, 9, 157);
+    background-color: rgb(244, 128, 167);
+}
+
+#div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin: 0;
+}
+
+#botao{
+    text-align: center;
+    background-color: rgb(169, 4, 169);;
+    color: pink;
+    font-size: 20px;
+}
+#peso {
+    text-align: center;
+    background-color: pink;
+    color: rgb(169, 4, 169);
+    font-size: 20px;
+    
+}
+#altura {
+    text-align: center;
+    background-color: pink;
+    color: rgb(169, 4, 169);
+    font-size: 20px;
+}
